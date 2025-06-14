@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+💻 Full Stack Developer | Passionate about clean code, modern web tech, and building real-world solutions.
 
 
 ## 🌐 Socials:
